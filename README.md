@@ -1,8 +1,6 @@
 # Task1-data-immersion-wrangling-project
-Retail Store Sales Data Cleaning &amp; Transformation
-📊 Data Immersion & Wrangling Project
-Retail Store Sales Data Cleaning & Preparation
-Project Overview
+RETAIL STORE SALES Data Cleaning & Preparation
+PROJECT OVERVIEW
 
 This project focuses on data immersion, quality assessment, and data wrangling using a Retail Store Sales dataset.
 
@@ -10,7 +8,7 @@ The objective was to transform raw transactional data into a clean, structured, 
 
 This project demonstrates foundational skills required for any Data Analyst role — data understanding, cleaning, transformation, and feature engineering.
 
-Objective
+OBJECTIVE
 
 To rapidly understand the dataset and perform end-to-end data preparation by:
 
@@ -24,7 +22,7 @@ Engineering new features for analysis
 
 Delivering a final analysis-ready dataset
 
-Dataset Description
+DATASET DESCRIPTION
 
 The dataset contains retail transaction records including:
 
@@ -44,7 +42,7 @@ Discount information
 
 Transaction date
 
-Data Quality Assessment
+DATA QUALITY ASSESSMENT
 
 The following issues were identified and addressed:
 
@@ -60,7 +58,7 @@ The following issues were identified and addressed:
 
 ✔ Revenue validation checks
 
-🛠 Data Cleaning & Transformation Steps
+🛠DATA CLEANING & TRANSFORMATION STEPS
 1️⃣ Column Standardization
 
 Cleaned column names (lowercase, removed spaces)
@@ -105,7 +103,7 @@ Time-based features from date column
 
 Revenue consistency validation (Price × Quantity = Total Spent)
 
-📈 Final Output
+📈 FINAL OUTPUT
 
 An analysis-ready dataset with:
 
@@ -121,14 +119,14 @@ Engineered time-based features
 
 Improved data consistency
 
-📁 Project Structure
+📁 PROJECT STRUCTURE
 data-immersion-wrangling-project/
 │
 ├── cleaning_script.py
 ├── cleaned_dataset.csv
 ├── Retail_Store_Sales_Data_Dictionary.docx
 └── README.md
-🧰 Tools & Technologies Used
+🧰 TOOLS & TECHNOLOGIES Used
 
 Python
 
@@ -152,7 +150,7 @@ Business Understanding of Data
 
 Documentation & Reporting
 
-🚀 Business Value
+🚀 BUSINESS VALUE
 
 By transforming raw transactional data into a structured dataset, this project enables:
 
